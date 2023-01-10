@@ -4,8 +4,6 @@ permalink: /research/
 title: Research
 ---
 
-(under construction - I need more pictures and links and stuff)
-
 **Interests**
 
 I'm broadly interested in astronomy as a source of interesting mathematical problems. This includes building sophisticated models to better understand astrophysical phenomena, improving computational efficiency to run hard calculations more quickly, and bringing in techniques across disciplines. Currently, I'm working on bringing these principles to microphysical cloud modeling.
