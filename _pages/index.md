@@ -12,4 +12,4 @@ Previously, I earned a Master of Advanced Study degree in Applied Mathematics fr
 
 I enjoy teaching and creating educational resources: check out the Expository Papers tab for some of what I've made!
 
-In my free time, I enjoy biking and always having a relevant [xkcd](https://xkcd.com) for every situation.
+In my free time, I enjoy biking, always having a relevant [xkcd](https://xkcd.com) for every situation, and trying to beat Celeste in less than an hour (check out my progress on my [Celeste speedrun spreadsheet!](https://docs.google.com/spreadsheets/d/1gWFdwIKdzrLu4wbeL0z8x4fIxxiGERNaUtC5of7R6O0/edit#gid=0)).
