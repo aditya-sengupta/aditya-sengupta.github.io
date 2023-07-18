@@ -28,7 +28,7 @@ Here are my course notes from many of the classes I’ve taken!
 
 ### Cambridge
 
-[Analysis of Partial Differential Equations](../notes/pde.pdf), [Inverse Problems](../notes/inverse.pdf), [Extrasolar Planets](../notes/)
+[Analysis of Partial Differential Equations](../notes/pde.pdf), [Inverse Problems](../notes/inverse.pdf), [Extrasolar Planets](../notes/exoplanets.pdf)
 
 ### UC Santa Cruz
 
