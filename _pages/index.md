@@ -6,7 +6,7 @@ layout: page
 permalink: /
 ---
 
-Hi! I'm Aditya, an astronomer interested in all the mathematical, computational, and engineering problems we solve so we can learn about space! I'm currently a PhD student in the Astronomy and Astrophysics department at **UC Santa Cruz**, where I'm being advised by Jonathan Fortney and Rebecca Jensen-Clem. My primary interests are in astronomical **instrumentation**, efficient computation for exoplanet **atmosphere models**, and statistical methods for astronomical **inference problems**.
+Hi! I'm Aditya, an astronomer interested in all the mathematical, computational, and engineering problems we solve so we can learn about space! I'm currently a PhD student in the Astronomy and Astrophysics department at **UC Santa Cruz**, where I'm being advised by Jonathan Fortney and Rebecca Jensen-Clem. My primary interests are in astronomical instrumentation for high-contrast imaging, and in microphysical models for clouds in substellar atmospheres.
 
 Previously, I earned a Master of Advanced Study degree in Applied Mathematics from Girton College, **University of Cambridge**, and a double Bachelor of Science in Engineering Physics and Engineering Mathematics and Statistics from **UC Berkeley**.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Being My Rubber Duck - Human-Style Sudoku Solving
+title: Human-Style Sudoku Solving
 category: blog
 ---
 

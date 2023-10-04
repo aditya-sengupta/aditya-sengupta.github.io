@@ -16,7 +16,6 @@ I like creating notes on content that I learn about (from my classes or otherwis
 - [My proof of the Central Limit Theorem, from when I was taking EECS 126](../expository/clt.pdf)
 - [A (hopefully intuitive) partial guide to introductory analysis, written while auditing Math 202A](../expository/analysis.pdf)
 - [A near-direct transcription of two Physics 5A lectures, introducing special relativity](../expository/Relativity.pdf)
-- [A guide to Einstein summation notation, due to my complete confusion in the first Physics 105 lecture](../expository/einstein.pdf)
 
 Here are my course notes from many of the classes I’ve taken!
 

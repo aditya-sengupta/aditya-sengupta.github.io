@@ -4,11 +4,13 @@ permalink: /research/
 title: Research
 ---
 
-**Interests**
+*Microphysical cloud modeling for substellar atmospheres*
 
-I'm broadly interested in astronomy as a source of interesting mathematical problems. This includes building sophisticated models to better understand astrophysical phenomena, improving computational efficiency to run hard calculations more quickly, and bringing in techniques across disciplines. Currently, I'm working on bringing these principles to microphysical cloud modeling.
+Clouds in the atmospheres of exoplanets and brown dwarfs can have a large influence on the spectra we observe, and theoretical models of the distribution, density, and sizes of cloud particles can be difficult. The dynamics of clouds encompass many different kinds of processes, and simulations can involve several dimensions and highly variable timescales. Consequently, full microphysical models, i.e. those treating the population of cloud particles directly, can be too computationally expensive to couple into the circulation models needed to get a full picture of the physics in a planet or brown dwarf atmosphere. With Prof. Jonathan Fortney, I'm working on a set of microphysical cloud models to capture the essential physics while bridging the computational complexity gap, written in the Julia programming language.
 
-**Research**
+*Focal-plane wavefront sensing with a photonic lantern*
+
+Extreme adaptive optics techniques are essential to reach the resolution and contrast necessary to directly image Earth-like planets around Sun-like stars using large ground-based telescopes. In particular, focal-plane wavefront sensing allows us to correct _non-common path aberrations_ that would otherwise distort the science image while being inaccessible to the adaptive optics system. In collaboration with Prof. Rebecca Jensen-Clem, I'm currently running experiments using the SEAL testbed in the Laboratory for Adaptive Optics and the 3m Shane telescope at Lick Observatory to assess the photonic lantern's performance as a wavefront sensor and science camera, and to find improvements in the design and operation of photonic lanterns so they can be used at large telescoes.
 
 *Laboratory demonstration of optimal identification and control of tip-tilt systems*
 
