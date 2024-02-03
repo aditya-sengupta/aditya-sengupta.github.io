@@ -137,6 +137,6 @@ And after a lot of tweaking things and rearranging where my content went within 
 
 I put it into my proposal document, stepped back, and went "...I don't really like this." In the context of the proposal, it just didn't seem to fit, and it pushed me over my page limit. So after many hours of working out math and coding across Julia and TikZ, I just threw it out. I might bring it back on another occasion, but it felt wrong in this case.
 
-![](assets/images/4_hours.png)
+![](/assets/images/four_hours.png)
 
 I could justify this whole experience by saying it's helpful to look at alternative forms of my figures so I can find out what does and doesn't work, and I believe that to some extent. But honestly, it was just a fun puzzle. I've found that since I started doing research full-time, any fun puzzles I come across get folded into the larger research project, so I have to save this kind of writeup for a formal research product like a paper or presentation. I liked getting to just solve something in one sitting and work through just enough hurdles to keep it interesting but not frustrating!
