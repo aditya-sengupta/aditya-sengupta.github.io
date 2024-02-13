@@ -31,4 +31,4 @@ Here are my course notes from many of the classes I’ve taken!
 
 ### UC Santa Cruz
 
-[Astrophysical Fluid Dynamics](../notes/fluids.pdf), [Stellar Structure and Evolution](../notes/stars.pdf), [Instrumentation in Astronomy](../notes/instrumentation.pdf), [Radiative Processes](../notes/radiative_recon.pdf)
+[Astrophysical Fluid Dynamics](../notes/fluids.pdf), [Stellar Structure and Evolution](../notes/stars.pdf), [Instrumentation in Astronomy](../notes/instrumentation.pdf), [Radiative Processes](../notes/radiative_recon.pdf), [Diffuse Matter in Space](../notes/diffuse.pdf)
