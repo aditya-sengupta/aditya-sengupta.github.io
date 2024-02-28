@@ -1,0 +1,25 @@
+---
+layout: page
+title:  Winter 2024 Astr 118 Content
+category: teaching
+---
+
+[Discussion 2 Worksheet: Inverse-Square Law](../../astr118discworksheets/astr118w2_inversesquare.pdf)
+
+[Discussion 3 Worksheet: Orbits](../../astr118discworksheets/astr118w3_orbits.pdf)
+
+[Discussion 4 Worksheet: Detection](../../astr118discworksheets/astr118w4_detection.pdf)
+
+[Discussion 5 Worksheet: Demographics](../../astr118discworksheets/astr118w5_demographics.pdf)
+
+The corresponding Jupyter notebook is [here](../../astr118discworksheets/exoplanet_archive.ipynb) and the data file is [here](../../assets/exoplanet_archive.csv) (also linked within the notebook). The data is from the NASA Exoplanet Archive with some cuts for convenience.
+
+[Discussion 6 Worksheet: Formation](../../astr118discworksheets/astr118w6_formation.pdf)
+
+I also posted the solution to question 3 [here](../../astr118discworksheets/astr118w6q3answer.pdf).
+
+[Discussion 7 Worksheet: Atmospheres](../../astr118discworksheets/astr118w7_atmospheres.pdf)
+
+[Discussion 8 Worksheet: Atmospheres](../../astr118discworksheets/astr118w8_atmospheres.pdf)
+
+The notebook for converting pressure/temperature to altitude is [here](tp_to_tz.ipynb) and uses the P-T profile [here](test.pt) (from the Sonora Diamondback models).
