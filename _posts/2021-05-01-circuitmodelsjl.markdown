@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CircuitModels.jl
-category: blog
+category: development
 ---
 
 

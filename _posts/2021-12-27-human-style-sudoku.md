@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Human-Style Sudoku Solving
-category: blog
+category: games
 ---
 
 I like solving Sudokus, but I’m not that great at them - my strategy mostly involves the following steps:
