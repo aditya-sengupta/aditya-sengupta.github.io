@@ -8,7 +8,6 @@ I like creating notes on content that I learn about (from my classes or otherwis
 
 - [Exploring the need for image restoration in optics](../expository/phase_exposition.jl.html)
 - [My demonstration of LQG control on a toy problem](../expository/control_exposition.pdf)
-- [My slide deck introducing Julia for research programming](https://docs.google.com/presentation/d/1dvmnb5LJZTLZgEIhNHKpEvHhDMYvOkrQkkzFqFFNges/edit#slide=id.g9b606c9917_0_203)
 - [A one-page introduction to Gaussian Processes, made in preparation for the online.tess.science virtual meeting](../expository/gp_onepage.pdf)
 - [My super-compact cheat sheet for CS 189, Introduction to Machine Learning](../expository/CS189_Cheat_Sheet_Master.pdf)
 - [An informally-written introduction to Jordan canonical form, introduced in Math 110](../expository/jordan_intuitive.pdf)
