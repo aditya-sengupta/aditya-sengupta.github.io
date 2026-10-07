@@ -6,9 +6,17 @@ title: Research
 
 *Focal-plane wavefront sensing with a photonic lantern*
 
-Extreme adaptive optics techniques are essential to reach the resolution and contrast necessary to directly image Earth-like planets around Sun-like stars using large ground-based telescopes. In particular, focal-plane wavefront sensing allows us to correct _non-common path aberrations_ that would otherwise distort the science image while being inaccessible to the adaptive optics system. In collaboration with Prof. Rebecca Jensen-Clem, I'm currently running experiments using the SEAL testbed in the Laboratory for Adaptive Optics and the 3m Shane telescope at Lick Observatory to assess the photonic lantern's performance as a wavefront sensor and science camera, and to find improvements in the design and operation of photonic lanterns so they can be used at large telescopes.
+Extreme adaptive optics techniques are essential to reach the resolution and contrast necessary to directly image Earth-like planets around Sun-like stars using large ground-based telescopes. In particular, focal-plane wavefront sensing allows us to correct _non-common path aberrations_ that would otherwise distort the science image while being inaccessible to the adaptive optics system. I ran experiments on the SEAL testbed at UCSC and on the Shane adaptive optics system at Lick Observatory demonstrating wavefront control using a photonic lantern. I've written several papers and conference proceedings on this topic:
 
-Read my SPIE proceedings from [2024, introducing our lab capabilities](https://arxiv.org/pdf/2406.07771); [2025, presenting a dedicated testbed for photonic lantern testing](https://arxiv.org/pdf/2508.20078); and [2025 (led by Lamat fellow Maria Cuevas), demonstrating the photonic lantern's sensitivity to primary mirror segment phasing aberrations](https://arxiv.org/pdf/2509.00283).
+- [First laboratory demonstration of closed-loop control using a PL, SPIE 2024](https://arxiv.org/pdf/2406.07771)
+- [The testbed I built for photonic lantern experiments, SPIE 2025](https://arxiv.org/pdf/2508.20078)
+- [Experimental demonstration of the PL's sensitivity to primary-mirror segment phasing aberrations (led by then-undergraduate Maria Cuevas), SPIE 2025](https://arxiv.org/pdf/2509.00283)
+- [On-sky demonstration of the PL as a wavefront sensor, ApJ 2026](https://arxiv.org/abs/2511.20560)
+- [Laboratory measurements of how sensitive the PL wvefront sensor is to photon noise, SPIE 2026](https://arxiv.org/abs/2606.27585)
+- [Off-axis holography characterization of a multi-PL waveguide, SPIE 2026](https://arxiv.org/abs/2606.27590)
+
+*Control algorithms for dual-wavefront sensor single-conjugate adaptive optics*
+
 
 *Laboratory demonstration of optimal identification and control of tip-tilt systems*
 
