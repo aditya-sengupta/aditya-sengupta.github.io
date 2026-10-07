@@ -6,11 +6,9 @@ layout: page
 permalink: /
 ---
 
-Hi! I'm Aditya, an astronomer interested in all the mathematical, computational, and engineering problems we solve so we can learn about space! I'm a PhD candidate in the Astronomy and Astrophysics department at **UC Santa Cruz**, where I'm being advised by Rebecca Jensen-Clem and Jonathan Fortney. My primary interests are in astronomical instrumentation for high-contrast imaging, and in clouds in substellar atmospheres.
+Hi! I'm Aditya, an astronomer interested in all the mathematical, computational, and engineering problems we solve so we can learn about space! I'm a PhD candidate in the Astronomy and Astrophysics department at **UC Santa Cruz**, working with Rebecca Jensen-Clem and Jonathan Fortney. I work on astronomical instrumentation for high-contrast imaging of exoplanets and brown dwarfs, and on what the resulting observations can tell us about the formation and evolution of substellar companions.
 
-Previously, I earned a Master of Advanced Study degree in Applied Mathematics from Girton College, **University of Cambridge**, and a double Bachelor of Science in Engineering Physics and Engineering Mathematics and Statistics from **UC Berkeley**.
-
-I enjoy teaching and creating educational resources: check out the Expository Papers tab for some of what I've made!
+I enjoy teaching and creating educational resources: check out the Expository Papers tab for some of what I've made! I'm currently the Head TA for my department, and I teach Astr 205: Introduction to Astronomical Research and Teaching, which introduces our first-year graduate students to the department. I've also worked with the Lamat summer research program for several years, and currently serve as their Graduate Leadership Fellow for pedagogical and curriculum design.
 
 In my free time, I enjoy biking, playing Jet Lag: The Game's Hide and Seek, and getting overcompetitive about [daily](https://www.minutecryptic.com/) [puzzle](https://cluesbysam.com/) [games](juxtastat.org)!
 I also successfully completed the video game Celeste in less than an hour (check out my progress on my [Celeste speedrun spreadsheet!](https://docs.google.com/spreadsheets/d/1gWFdwIKdzrLu4wbeL0z8x4fIxxiGERNaUtC5of7R6O0/edit#gid=0)).

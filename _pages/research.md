@@ -12,11 +12,10 @@ Extreme adaptive optics techniques are essential to reach the resolution and con
 - [The testbed I built for photonic lantern experiments, SPIE 2025](https://arxiv.org/pdf/2508.20078)
 - [Experimental demonstration of the PL's sensitivity to primary-mirror segment phasing aberrations (led by then-undergraduate Maria Cuevas), SPIE 2025](https://arxiv.org/pdf/2509.00283)
 - [On-sky demonstration of the PL as a wavefront sensor, ApJ 2026](https://arxiv.org/abs/2511.20560)
-- [Laboratory measurements of how sensitive the PL wvefront sensor is to photon noise, SPIE 2026](https://arxiv.org/abs/2606.27585)
+- [Laboratory measurements of how sensitive the PL wavefront sensor is to photon noise, SPIE 2026](https://arxiv.org/abs/2606.27585)
 - [Off-axis holography characterization of a multi-PL waveguide, SPIE 2026](https://arxiv.org/abs/2606.27590)
 
 *Control algorithms for dual-wavefront sensor single-conjugate adaptive optics*
-
 
 *Laboratory demonstration of optimal identification and control of tip-tilt systems*
 
